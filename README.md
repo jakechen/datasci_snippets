@@ -1,2 +1,2 @@
 # datasci_snippets
-Small pieces of useful code gathered here and there.
+Small pieces of useful data science code gathered here and there.
